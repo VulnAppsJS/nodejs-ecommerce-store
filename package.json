@@ -24,7 +24,7 @@
     "ejs": "3.1.7",
     "ejs-mate": "3.0.0",
     "elasticsearch": "16.7.3",
-    "express": "4.17.3",
+    "express": "4.19.2",
     "express-flash": "0.0.2",
     "express-rate-limit": "^5.3.0",
     "express-session": "1.16.1",
